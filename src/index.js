@@ -57,7 +57,7 @@ function returnFnResult(fn) {
    console.log(f()); // выведет 13
  */
 function returnCounter(number) {
-  console.log('sdsdsdsd')
+  console.log('sdsdsdsd4444444')
 }
 
 /*
